@@ -1,0 +1,3 @@
+[run]
+source = template_korean
+omit = */test*
