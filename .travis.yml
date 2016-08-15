@@ -11,4 +11,6 @@ script:
   tox
 
 after_success:
-  - bash <(curl -s https://codecov.io/bash)
+  coveralls
+  # codecov 
+  # - bash <(curl -s https://codecov.io/bash)
