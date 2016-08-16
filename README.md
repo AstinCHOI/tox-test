@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/AstinCHOI/tox-test.svg?branch=master)](https://travis-ci.org/AstinCHOI/tox-test)  
+[![Build Status](https://travis-ci.org/AstinCHOI/tox-test.svg?branch=master)](https://travis-ci.org/AstinCHOI/tox-test) [![Coverage Status](https://coveralls.io/repos/github/AstinCHOI/tox-test/badge.svg?branch=master)](https://coveralls.io/github/AstinCHOI/tox-test?branch=master)  
   
 
 # Tox, Travis 그리고 Coveralls 실습하기
